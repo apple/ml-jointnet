@@ -1,0 +1,14 @@
+torch
+diffusers==0.19.3
+scipy
+accelerate
+torchvision
+transformers
+datasets
+ftfy
+tensorboard
+Jinja2
+bitsandbytes
+sentencepiece
+lpips
+opencv-python
